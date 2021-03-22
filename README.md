@@ -1,5 +1,7 @@
 # Gitea Updater #
 
+**I recommend to install Gitea using [Docker](https://docs.gitea.io/en-us/install-with-docker/).**
+
 This is a simple tool which helps to upgrade your [Gitea](https://github.com/go-gitea/gitea) 
 instance to the next version.
 
